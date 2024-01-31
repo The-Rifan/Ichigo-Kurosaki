@@ -1,7 +1,7 @@
 {
-  "name": "ichigo-kurosaki",
+  "name": "YeRifan-Bot",
   "version": "1.0.0",
-  "description": "Bot Kok Wangsap",
+  "description": "Bot Wangsap",
   "main": "connect/index.js",
   "type": "commonjs",
   "scripts": {
